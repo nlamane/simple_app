@@ -4,37 +4,31 @@ Conception et développement d’une application web
 
 ##Team
 
-- min. 1 dev back : noemi
-- min. 1 dev front : __ name 
-- min. 1 ui : __ name 
-- min. 1 ux : __ name
+- min. 1 dev back : noemilamane
+- min. 1 dev front : noemilamane
+- min. 1 ui : swannlatasa
+- min. 1 ux : joannapons
 
 ##Roadmap
 
-- Pitch
- - description courte
-- Expression du métier
- - liste des besoins, actions
+- Pitch : Todo list
+- description courte : 
+- Expression du métier : En tant qu'utilisateur je peux écrire une tâche en appuyant
+sur un bouton elle doit ensuite apperaitre sur ma liste, pour finir l'utilisateur
+doit pouvoir cocher une tâche et/ou la supprimer.
+- liste des besoins, actions
 - Proto
- - zoning, ux
+- zoning, ux
 - Alpha
- - roadmap, développement pragmatique du métier, dev back/front
+- roadmap, développement pragmatique du métier, dev back/front
 - Alpha test
 - Web design
- - ui, ux, animation
+- ui, ux, animation
 - Beta
- - dev back/front
+- dev back/front
 - Beta test
 - Production, com, marketing…
 
 ##Projets
 
-- Tchat 
-- Agenda de sortie
-- Shop
-- Streaming
-- Agenda perso
-- Todo
-- Trailer report
-- Timeline publique
-- …
+- To Do list 
