@@ -4,7 +4,7 @@ Conception et développement d’une application web
 
 ##Team
 
-- min. 1 dev back : __ name 
+- min. 1 dev back : noemi
 - min. 1 dev front : __ name 
 - min. 1 ui : __ name 
 - min. 1 ux : __ name
