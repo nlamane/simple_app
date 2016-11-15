@@ -1,11 +1,16 @@
 # simple_app
+
 Conception et développement d’une application web
+
 ##Team
+
 - min. 1 dev back : __ name 
 - min. 1 dev front : __ name 
 - min. 1 ui : __ name 
-- min. 1 ux : __ name 
+- min. 1 ux : __ name
+
 ##Roadmap
+
 - Pitch
  - description courte
 - Expression du métier
@@ -21,7 +26,9 @@ Conception et développement d’une application web
  - dev back/front
 - Beta test
 - Production, com, marketing…
+
 ##Projets
+
 - Tchat 
 - Agenda de sortie
 - Shop
